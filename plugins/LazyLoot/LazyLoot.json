@@ -1,0 +1,23 @@
+{
+  "Author": "53m1k0l0n",
+  "Name": "LazyLoot",
+  "InternalName": "LazyLoot",
+  "AssemblyVersion": "4.0.0.1",
+  "Description": "各种需求、贪婪或放弃所有战利品的命令。聊天和Toast输出以及roll点延迟。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/53m1k0l0n/FFXIV-LazyLoot",
+  "Tags": [
+    "plugin",
+    "loot",
+    "utility",
+    "other"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/53m1k0l0n/FFXIV-LazyLoot/main/LazyLoot/Images/icon.png",
+  "Punchline": "一键roll点用的",
+  "Changelog": "ty keoShine - Fix /greed command not rolling on items that can be Needed and added small random variable delay to make automation detection less trivial",
+  "AcceptsFeedback": true
+}
