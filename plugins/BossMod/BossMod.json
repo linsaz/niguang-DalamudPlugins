@@ -2,20 +2,19 @@
   "Author": "veyn",
   "Name": "Boss Mod",
   "InternalName": "BossMod",
-  "AssemblyVersion": "0.0.0.82",
-  "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content. ***very early alpha, use at your own risk***",
+  "AssemblyVersion": "0.0.0.83",
+  "Punchline": "大脑按摩用的",
+  "Description": "本仓库的版本关闭了与战斗相关的Hook，防止与其它pve插件冲突",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
   "DalamudApiLevel": 7,
   "LoadRequiredState": 0,
   "LoadSync": false,
-  "LoadPriority": 0,
   "ImageUrls": [
     "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
     "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
     "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
-  "Punchline": "Don't fail at raid mechanics anymore",
   "AcceptsFeedback": true
 }
