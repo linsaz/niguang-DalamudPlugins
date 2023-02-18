@@ -2,8 +2,8 @@
   "Author": "53m1k0l0n",
   "Name": "LazyLoot",
   "InternalName": "LazyLoot",
-  "AssemblyVersion": "5.0.7.0",
-  "Description": "各种需求、贪婪或放弃所有战利品的命令。聊天和Toast输出以及roll点延迟。",
+  "AssemblyVersion": "5.0.8.0",
+  "Description": "带有各种参数的Roll点命令 need | needonly | greed | pass | passall。 \n聊天和Toast输出以及Roll点延迟。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/53m1k0l0n/FFXIV-LazyLoot",
   "Tags": [
@@ -12,12 +12,11 @@
     "utility",
     "other"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/53m1k0l0n/FFXIV-LazyLoot/main/LazyLoot/Images/icon.png",
-  "Punchline": "一键roll点用的",
-  "Changelog": "Config save executes properly now.",
+  "Punchline": "一键Roll点用的",
   "AcceptsFeedback": true
 }
