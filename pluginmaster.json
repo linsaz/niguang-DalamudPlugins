@@ -53,7 +53,7 @@
     "Name": "LazyLoot",
     "InternalName": "LazyLoot",
     "Punchline": "一键Roll点用的",
-    "AssemblyVersion": "5.0.8.0",
+    "AssemblyVersion": "5.0.8.2",
     "Description": "带有各种参数的Roll点命令 need | needonly | greed | pass | passall。 \n聊天和Toast输出以及Roll点延迟。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
