@@ -2,8 +2,8 @@
   "Author": "53m1k0l0n",
   "Name": "LazyLoot",
   "InternalName": "LazyLoot",
-  "AssemblyVersion": "5.0.8.2",
-  "Description": "带有各种参数的Roll点命令 need | needonly | greed | pass | passall。 \n聊天和Toast输出以及Roll点延迟。",
+  "AssemblyVersion": "5.0.9.0",
+  "Description": "带有各种参数的Roll点命令 need | needonly | greed | pass | passall\n聊天和Toast输出以及Roll点延迟。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/53m1k0l0n/FFXIV-LazyLoot",
   "Tags": [
@@ -18,5 +18,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/53m1k0l0n/FFXIV-LazyLoot/main/LazyLoot/Images/icon.png",
   "Punchline": "一键Roll点用的",
+  "Changelog": "-更多限制\n-FULF最多延迟1.5秒，只是为了更人性化，不能禁用。\n-完成FULF的滚动返工\n-由于Kapture，命令从/roll更改为/rolling",
   "AcceptsFeedback": true
 }
