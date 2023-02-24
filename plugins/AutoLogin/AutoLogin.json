@@ -1,0 +1,15 @@
+{
+  "Author": "Caraxi",
+  "Name": "Auto Login",
+  "InternalName": "AutoLogin",
+  "AssemblyVersion": "2.0.0.0",
+  "Description": "很懒，不想点开始游戏",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Caraxi/AutoLogin",
+  "DalamudApiLevel": 7,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 1,
+  "Punchline": "自动登录用的",
+  "AcceptsFeedback": true
+}
