@@ -1,0 +1,15 @@
+{
+  "Author": "aiczk",
+  "Name": "Astro",
+  "InternalName": "Astro",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Simplify the astrologian's operation.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 7,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/aiczk/Astro/raw/main/Resource/space.png",
+  "Punchline": "Make Astro Simple to play",
+  "AcceptsFeedback": true
+}
