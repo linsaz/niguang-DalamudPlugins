@@ -1,15 +1,15 @@
 {
-  "Author": "aiczk",
+  "Author": "aiczk, NiGuangOwO（本地化）",
   "Name": "Astro",
   "InternalName": "Astro",
-  "AssemblyVersion": "1.0.0.0",
-  "Description": "Simplify the astrologian's operation.",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "给下水道占星多点关心多点爱",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 7,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/aiczk/Astro/raw/main/Resource/space.png",
-  "Punchline": "Make Astro Simple to play",
+  "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/Astro/main/Resource/space.png",
+  "Punchline": "自动发卡用的",
   "AcceptsFeedback": true
 }
