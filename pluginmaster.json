@@ -4,7 +4,7 @@
     "Name": "Boss Mod",
     "InternalName": "BossMod",
     "Punchline": "大脑按摩用的",
-    "AssemblyVersion": "0.0.0.84",
+    "AssemblyVersion": "0.0.0.85",
     "Description": "本仓库版本来自y佬维护版的编译，仅保留画图，还不快说谢谢y佬",
     "Changelog": "cn6.25",
     "ApplicableVersion": "any",
@@ -50,7 +50,7 @@
     "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip"
   },
   {
-    "Author": "53m1k0l0n",
+    "Author": "53m1k0l0n, NiGuangOwO(本地化)",
     "Name": "LazyLoot",
     "InternalName": "LazyLoot",
     "Punchline": "一键Roll点用的",
@@ -81,7 +81,7 @@
     "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip"
   },
   {
-    "Author": "Caraxi",
+    "Author": "Caraxi, NiGuangOwO(本地化)",
     "Name": "Auto Login",
     "InternalName": "AutoLogin",
     "Punchline": "自动登录用的",
@@ -96,7 +96,7 @@
     "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip"
   },
   {
-    "Author": "aiczk, NiGuangOwO（本地化）",
+    "Author": "aiczk, NiGuangOwO(本地化)",
     "Name": "Astro",
     "InternalName": "Astro",
     "Punchline": "自动发卡用的",
@@ -108,5 +108,18 @@
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Astro/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Astro/latest.zip",
     "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Astro/latest.zip"
+  },
+  {
+    "Author": "NightmareXIV, NiGuangOwO(本地化)",
+    "Name": "Lifestream",
+    "InternalName": "Lifestream",
+    "Punchline": "加速水晶传送和跨服用的",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "跨服吃S快人一步（bushi",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
+    "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip"
   }
 ]

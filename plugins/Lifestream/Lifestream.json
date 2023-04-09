@@ -1,0 +1,15 @@
+{
+  "Author": "NightmareXIV",
+  "Name": "Lifestream",
+  "InternalName": "Lifestream",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "加速水晶传送和跨服用的",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+  "DalamudApiLevel": 7,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "加速水晶传送和跨服用的",
+  "AcceptsFeedback": false
+}
