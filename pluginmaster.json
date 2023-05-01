@@ -9,12 +9,6 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
     "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
-    "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
-      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
-      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
-    ],
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
     "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip"
@@ -43,7 +37,6 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
     "IconUrl": "",
-    "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
     "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip"
@@ -58,7 +51,6 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
     "IconUrl": "https://raw.githubusercontent.com/53m1k0l0n/FFXIV-LazyLoot/main/LazyLoot/Images/icon.png",
-    "RepoUrl": "https://github.com/53m1k0l0n/FFXIV-LazyLoot",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
     "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip"
@@ -85,7 +77,6 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 7,
     "IconUrl": "",
-    "RepoUrl": "https://github.com/Caraxi/AutoLogin",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
     "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip"
