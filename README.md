@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.js
 | Astro                | 占星全自动发卡                     | [aiczk](https://github.com/aiczk)               | 我自己                                | √    | 已停更           |
 | AutoLogin            | 打开游戏后自动登录                 | [Caraxi](https://github.com/Caraxi)             | 我自己                                | √    | 已停更           |
 | BossMod              | 小地图画图                         | [awgil](https://github.com/awgil)               | [Yarukon](https://github.com/Yarukon) | √    | √                |
-| LazyLoot             | 一键/全自动 roll 点                | [53m1k0l0n](https://github.com/53m1k0l0n)       | 我自己                                | √    | 已停更           |
+| LazyLoot             | 一键/全自动 roll 点                | [53m1k0l0n](https://github.com/53m1k0l0n)       | 我自己                                | √    | 已停更(Punish已接手)           |
 | LiteralMapLink       | 聊天中发送可点击的地图坐标         | [Asvel](https://github.com/Asvel)               | 我自己                                | √    | √                |
 | Lifestream           | 在水晶附近显示城内传送和跨服悬浮窗 | [NightmareXIV](https://github.com/NightmareXIV) | 我自己                                | √    | √                |
 | Reset enmity command | 用指令重置木人仇恨                 | [akira0245](https://github.com/akira0245)       | 我自己                                | √    | 已停更           |
