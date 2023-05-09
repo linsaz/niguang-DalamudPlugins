@@ -11,7 +11,7 @@
     "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
-    "Changelog": "更新至上游最新版本，适配api8"
+    "Changelog": "- 更新至上游最新版本\n- 适配API8"
   },
   {
     "Author": "akira0245",
@@ -37,20 +37,21 @@
     "DalamudApiLevel": 8,
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
-    "Changelog": "适配api8"
+    "Changelog": "- 适配API8"
   },
   {
-    "Author": "53m1k0l0n, NiGuangOwO(本地化)",
+    "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
     "Name": "LazyLoot",
     "InternalName": "LazyLoot",
-    "Punchline": "一键Roll点用的",
-    "AssemblyVersion": "5.0.9.4",
+    "Punchline": "一(自)键(动)Roll点用的",
+    "AssemblyVersion": "5.0.9.5",
     "Description": "带有各种参数的Roll点命令 need | needonly | greed | pass | passall\n聊天和Toast输出以及Roll点延迟。",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
     "IconUrl": "https://raw.githubusercontent.com/53m1k0l0n/FFXIV-LazyLoot/main/LazyLoot/Images/icon.png",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
+    "Changelog": "- 基于punish团队维护版再汉化\n- 适配API8"
   },
   {
     "Author": "NiGuangOwO",
@@ -63,7 +64,7 @@
     "DalamudApiLevel": 8,
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/FuckAnimationLock/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/FuckAnimationLock/releases/latest/download/latest.zip",
-    "Changelog": "适配api8"
+    "Changelog": "- 适配API8"
   },
   {
     "Author": "Caraxi, NiGuangOwO(本地化)",
@@ -76,7 +77,7 @@
     "DalamudApiLevel": 8,
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
-    "Changelog": "适配api8"
+    "Changelog": "- 适配API8"
   },
   {
     "Author": "aiczk, NiGuangOwO(本地化)",
@@ -102,6 +103,6 @@
     "DalamudApiLevel": 8,
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
-    "Changelog": "更新至上游最新版本，适配api8"
+    "Changelog": "- 更新至上游最新版本\n- 适配API8"
   }
 ]
