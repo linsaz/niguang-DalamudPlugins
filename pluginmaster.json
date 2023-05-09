@@ -4,13 +4,14 @@
     "Name": "Boss Mod",
     "InternalName": "BossMod",
     "Punchline": "大脑按摩用的",
-    "AssemblyVersion": "0.0.0.87",
+    "AssemblyVersion": "0.0.0.92",
     "Description": "本仓库版本来自y佬维护版的编译，仅保留画图，还不快说谢谢y佬",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
     "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
+    "Changelog": "更新至上游最新版本，适配api8"
   },
   {
     "Author": "akira0245",
