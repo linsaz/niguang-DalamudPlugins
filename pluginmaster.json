@@ -56,11 +56,13 @@
     "Name": "FuckAnimationLock",
     "InternalName": "FuckAnimationLock",
     "Punchline": "三插能力技用的",
-    "AssemblyVersion": "2.0.0.1",
+    "AssemblyVersion": "2.1.0",
     "Description": "打本我就要三插，闲鱼小店死个妈",
     "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/FuckAnimationLock/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/FuckAnimationLock/releases/latest/download/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/FuckAnimationLock/releases/latest/download/latest.zip",
+    "Changelog": "适配api8"
   },
   {
     "Author": "Caraxi, NiGuangOwO(本地化)",
