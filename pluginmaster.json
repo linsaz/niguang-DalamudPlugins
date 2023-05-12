@@ -67,7 +67,7 @@
     "Changelog": "- 将LB拎出来作为开挂模式"
   },
   {
-    "Author": "Caraxi, NiGuangOwO(本地化)",
+    "Author": "Caraxi, NiGuangOwO (本地化)",
     "Name": "Auto Login",
     "InternalName": "AutoLogin",
     "Punchline": "自动登录用的",
@@ -80,7 +80,7 @@
     "Changelog": "- 适配API8"
   },
   {
-    "Author": "aiczk, NiGuangOwO(本地化)",
+    "Author": "aiczk, NiGuangOwO (本地化)",
     "Name": "Astro",
     "InternalName": "Astro",
     "Punchline": "自动发卡用的",
@@ -93,7 +93,7 @@
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Astro/latest.zip"
   },
   {
-    "Author": "NightmareXIV, NiGuangOwO(本地化)",
+    "Author": "NightmareXIV, NiGuangOwO (本地化)",
     "Name": "Lifestream",
     "InternalName": "Lifestream",
     "Punchline": "一个用于加速城内以太水晶传送和跨服插件",
@@ -104,5 +104,17 @@
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
     "Changelog": "- 更新至上游最新版本\n- 适配API8"
+  },
+  {
+    "Author": "Haselnussbomber,NiGuangOwO (本地化)",
+    "Name": "HaselTweaks",
+    "InternalName": "HaselTweaks",
+    "Punchline": "一系列生活质量调整",
+    "AssemblyVersion": "0.14.6.0",
+    "Description": "继续调整",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Haselnussbomber/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Haselnussbomber/latest.zip"
   }
 ]

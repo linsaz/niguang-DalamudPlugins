@@ -1,0 +1,16 @@
+{
+  "Author": "Haselnussbomber,NiGuangOwO (本地化)",
+  "Name": "HaselTweaks",
+  "InternalName": "HaselTweaks",
+  "AssemblyVersion": "0.14.6.0",
+  "Description": "继续调整",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "一系列生活质量调整",
+  "AcceptsFeedback": true
+}
