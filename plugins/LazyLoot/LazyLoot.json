@@ -19,6 +19,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://love.puni.sh/resources/plugin.png",
   "Punchline": "一(自)键(动)Roll点用的",
-  "Changelog": "基于punish团队维护版再汉化",
+  "Changelog": "修复了对已持有的珍稀或独占的道具一直尝试Roll点的问题",
   "AcceptsFeedback": true
 }

@@ -44,14 +44,14 @@
     "Name": "LazyLoot",
     "InternalName": "LazyLoot",
     "Punchline": "一(自)键(动)Roll点用的",
-    "AssemblyVersion": "5.0.9.5",
+    "AssemblyVersion": "5.0.9.6",
     "Description": "带有各种参数的Roll点命令 need | needonly | greed | pass | passall\n聊天和Toast输出以及Roll点延迟。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IconUrl": "https://love.puni.sh/resources/plugin.png",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
-    "Changelog": "- 基于punish团队维护版再汉化\n- 适配API8"
+    "Changelog": "修复了对已持有的珍稀或独占的道具一直尝试Roll点的问题"
   },
   {
     "Author": "NiGuangOwO",
