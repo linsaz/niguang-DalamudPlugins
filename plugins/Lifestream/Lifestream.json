@@ -1,9 +1,9 @@
 {
-  "Author": "NightmareXIV,NiGuangOwO(本地化)",
+  "Author": "NightmareXIV, NiGuangOwO (本地化)",
   "Name": "Lifestream",
   "InternalName": "Lifestream",
   "AssemblyVersion": "1.0.0.5",
-  "Description": "- 一键传送到任何服务器或城内以太水晶目的地\n跨服吃S快人一步(bushi)",
+  "Description": "- 一键传送到任何服务器或城内以太水晶目的地\n- 点击区域地图内的以太之光传送到它们",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
   "DalamudApiLevel": 8,
