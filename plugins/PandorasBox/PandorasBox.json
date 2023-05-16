@@ -1,0 +1,20 @@
+{
+  "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
+  "Name": "Pandora's Box",
+  "InternalName": "PandorasBox",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "潘多拉盒子主要是一个生活质量优化和调整的集合。\n\n用/pandora打开盒子",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+  "Tags": [
+    "punish",
+    "plugin"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/pandora.png",
+  "Punchline": "你敢打开潘多拉的盒子吗？",
+  "AcceptsFeedback": true
+}

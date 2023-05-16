@@ -103,5 +103,17 @@
     "DalamudApiLevel": 8,
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip"
+  },
+  {
+    "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
+    "Name": "Pandora's Box",
+    "InternalName": "PandorasBox",
+    "Punchline": "你敢打开潘多拉的盒子吗？",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "潘多拉盒子主要是一个生活质量优化和调整的集合。\n\n用/pandora打开盒子",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip"
   }
 ]
