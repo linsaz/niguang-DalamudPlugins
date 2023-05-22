@@ -93,11 +93,11 @@
     "Changelog": "修复天穹街失效"
   },
   {
-    "Author": "Haselnussbomber,NiGuangOwO (本地化)",
+    "Author": "Haselnussbomber, NiGuangOwO (本地化)",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
     "Punchline": "一系列生活质量调整",
-    "AssemblyVersion": "14.9.3.0",
+    "AssemblyVersion": "14.10.0",
     "Description": "继续调整",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
