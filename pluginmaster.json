@@ -113,7 +113,7 @@
     "Description": "Pandora是一个改善生活质量和一些调整的集合。\n\n用/pandora打开盒子",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "IconUrl": "https://love.puni.sh/resources/plugin.png",
+    "IconUrl": "https://love.puni.sh/resources/pandora.png",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip"
   }
