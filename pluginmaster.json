@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685088404"
+        "LastUpdate": "1685691013"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
@@ -38,7 +38,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685088404"
+        "LastUpdate": "1685691013"
     },
     {
         "Author": "Caraxi",
@@ -56,7 +56,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685088404"
+        "LastUpdate": "1685691013"
     },
     {
         "Author": "Haselnussbomber,NiGuangOwO (本地化)",
@@ -74,17 +74,16 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685088404"
+        "LastUpdate": "1685691013"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
         "Name": "LazyLoot",
         "Punchline": "一(自)键(动)Roll点用的",
         "Description": "带有各种参数的Roll点命令 need | needonly | greed | pass | passall\n聊天和Toast输出以及Roll点延迟。",
-        "Changelog": "修复了对已持有的珍稀或独占的道具一直尝试Roll点的问题",
         "InternalName": "LazyLoot",
-        "AssemblyVersion": "5.0.9.4",
-        "RepoUrl": "https://love.puni.sh/ment.json",
+        "AssemblyVersion": "5.0.9.7",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
         "ApplicableVersion": "any",
         "Tags": [
             "plugin",
@@ -93,14 +92,14 @@
             "other"
         ],
         "DalamudApiLevel": 8,
-        "IconUrl": "https://love.puni.sh/resources/plugin.png",
+        "IconUrl": "https://love.puni.sh/resources/lazyloot.png",
         "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685088404"
+        "LastUpdate": "1685691013"
     },
     {
         "Author": "NiGuangOwO",
@@ -117,7 +116,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685088404"
+        "LastUpdate": "1685691013"
     },
     {
         "Author": "akira0245",
@@ -141,7 +140,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685088404"
+        "LastUpdate": "1685691013"
     },
     {
         "Author": "veyn",
@@ -165,7 +164,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685088404"
+        "LastUpdate": "1685691013"
     },
     {
         "Author": "NightmareXIV, NiGuangOwO (本地化)",
@@ -183,6 +182,6 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685088404"
+        "LastUpdate": "1685691013"
     }
 ]
