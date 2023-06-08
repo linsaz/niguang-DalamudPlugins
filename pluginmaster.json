@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686050010"
+        "LastUpdate": "1686197583"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -46,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686050010"
+        "LastUpdate": "1686197583"
     },
     {
         "Author": "NightmareXIV, NiGuangOwO (本地化)",
@@ -64,7 +64,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686050010"
+        "LastUpdate": "1686197583"
     },
     {
         "Author": "Caraxi",
@@ -82,7 +82,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686050010"
+        "LastUpdate": "1686197583"
     },
     {
         "Author": "Asvel",
@@ -100,7 +100,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686050010"
+        "LastUpdate": "1686197583"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
@@ -108,7 +108,7 @@
         "Punchline": "你敢打开潘多拉的盒子吗？（在线安装 Only）",
         "Description": "Pandora是一个改善生活质量和一些调整的集合。\n\n用/pandora打开盒子",
         "InternalName": "PandorasBox",
-        "AssemblyVersion": "1.1.1.0",
+        "AssemblyVersion": "1.1.1.1",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "Tags": [
@@ -123,7 +123,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686050010"
+        "LastUpdate": "1686197583"
     },
     {
         "Author": "Haselnussbomber,NiGuangOwO (本地化)",
@@ -141,7 +141,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686050010"
+        "LastUpdate": "1686197583"
     },
     {
         "Author": "akira0245",
@@ -165,7 +165,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686050010"
+        "LastUpdate": "1686197583"
     },
     {
         "Author": "NiGuangOwO",
@@ -182,6 +182,6 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686050010"
+        "LastUpdate": "1686197583"
     }
 ]
