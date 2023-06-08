@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686227369"
+        "LastUpdate": "1686244039"
     },
     {
         "Author": "Haselnussbomber,NiGuangOwO (本地化)",
@@ -33,7 +33,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686227369"
+        "LastUpdate": "1686244039"
     },
     {
         "Author": "veyn",
@@ -57,7 +57,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686227369"
+        "LastUpdate": "1686244039"
     },
     {
         "Author": "NightmareXIV, NiGuangOwO (本地化)",
@@ -75,7 +75,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686227369"
+        "LastUpdate": "1686244039"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
@@ -98,7 +98,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686227369"
+        "LastUpdate": "1686244039"
     },
     {
         "Author": "akira0245",
@@ -122,7 +122,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Reset enmity command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686227369"
+        "LastUpdate": "1686244039"
     },
     {
         "Author": "NiGuangOwO",
@@ -130,7 +130,7 @@
         "Punchline": "三插能力技用的",
         "Description": "打本我就要三插，闲鱼小店死个妈",
         "InternalName": "FuckAnimationLock",
-        "AssemblyVersion": "2.1.2.1",
+        "AssemblyVersion": "2.1.2.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
@@ -139,7 +139,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686227369"
+        "LastUpdate": "1686244039"
     },
     {
         "Author": "Asvel",
@@ -157,7 +157,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686227369"
+        "LastUpdate": "1686244039"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -182,6 +182,6 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686227369"
+        "LastUpdate": "1686244039"
     }
 ]
