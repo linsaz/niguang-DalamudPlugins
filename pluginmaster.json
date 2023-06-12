@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686544081"
+        "LastUpdate": "1686546157"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -46,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686544081"
+        "LastUpdate": "1686546157"
     },
     {
         "Author": "NightmareXIV, NiGuangOwO (本地化)",
@@ -64,7 +64,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686544081"
+        "LastUpdate": "1686546157"
     },
     {
         "Author": "Caraxi",
@@ -82,7 +82,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686544081"
+        "LastUpdate": "1686546157"
     },
     {
         "Author": "Asvel",
@@ -100,7 +100,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686544081"
+        "LastUpdate": "1686546157"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
@@ -124,7 +124,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686544081"
+        "LastUpdate": "1686546157"
     },
     {
         "Author": "Haselnussbomber,NiGuangOwO (本地化)",
@@ -142,7 +142,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686544081"
+        "LastUpdate": "1686546157"
     },
     {
         "Author": "NiGuangOwO",
@@ -151,7 +151,7 @@
         "Description": "打本我就要三插，闲鱼小店死个妈",
         "Changelog": "新增魔改的Noclippy模式",
         "InternalName": "FuckAnimationLock",
-        "AssemblyVersion": "2.1.2.2",
+        "AssemblyVersion": "2.2.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
@@ -160,6 +160,6 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686544081"
+        "LastUpdate": "1686546157"
     }
 ]
