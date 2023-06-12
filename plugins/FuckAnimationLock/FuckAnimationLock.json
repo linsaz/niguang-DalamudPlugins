@@ -10,6 +10,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "三插能力技用的",
+  "Punchline": "改动画锁",
+  "Changelog": "新增魔改的Noclippy模式",
   "AcceptsFeedback": true
 }
