@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686546157"
+        "LastUpdate": "1686627947"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -46,25 +46,27 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686546157"
+        "LastUpdate": "1686627947"
     },
     {
         "Author": "NightmareXIV, NiGuangOwO (本地化)",
         "Name": "Lifestream",
         "Punchline": "一个用于加速城内以太水晶传送和跨服插件",
         "Description": "- 一键传送到任何服务器或城内以太水晶目的地\n- 点击区域地图内的以太之光传送到它们",
+        "Changelog": "同步最新2.0.0.1",
         "InternalName": "Lifestream",
-        "AssemblyVersion": "1.0.0.5",
+        "AssemblyVersion": "2.0.0.1",
         "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
+        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
         "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686546157"
+        "LastUpdate": "1686627947"
     },
     {
         "Author": "Caraxi",
@@ -82,7 +84,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686546157"
+        "LastUpdate": "1686627947"
     },
     {
         "Author": "Asvel",
@@ -100,7 +102,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686546157"
+        "LastUpdate": "1686627947"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
@@ -124,7 +126,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686546157"
+        "LastUpdate": "1686627947"
     },
     {
         "Author": "Haselnussbomber,NiGuangOwO (本地化)",
@@ -142,7 +144,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686546157"
+        "LastUpdate": "1686627947"
     },
     {
         "Author": "NiGuangOwO",
@@ -160,6 +162,6 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686546157"
+        "LastUpdate": "1686627947"
     }
 ]
