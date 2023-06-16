@@ -1,23 +1,5 @@
 [
     {
-        "Author": "Caraxi",
-        "Name": "Auto Login",
-        "Punchline": "自动登录用的",
-        "Description": "很懒，不想点开始游戏",
-        "InternalName": "AutoLogin",
-        "AssemblyVersion": "2.0.1.0",
-        "RepoUrl": "https://github.com/Caraxi/AutoLogin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/AutoLogin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1686850568"
-    },
-    {
         "Author": "Haselnussbomber,NiGuangOwO (本地化)",
         "Name": "HaselTweaks",
         "Punchline": "一系列生活质量调整",
@@ -33,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686850568"
+        "LastUpdate": "1686914290"
     },
     {
         "Author": "veyn",
@@ -57,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686850568"
+        "LastUpdate": "1686914290"
     },
     {
         "Author": "NightmareXIV, NiGuangOwO (本地化)",
@@ -76,16 +58,16 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686850568"
+        "LastUpdate": "1686914290"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
         "Name": "Pandora's Box",
         "Punchline": "你敢打开潘多拉的盒子吗？（在线安装 Only）",
         "Description": "Pandora是一个改善生活质量和一些调整的集合。\n\n用/pandora打开盒子",
-        "Changelog": "同步最新1.2.0.1",
+        "Changelog": "- 优化了自动登录\n- 自动点赞已优化为对位点赞",
         "InternalName": "PandorasBox",
-        "AssemblyVersion": "1.2.0.1",
+        "AssemblyVersion": "1.2.0.2",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "ApplicableVersion": "any",
         "Tags": [
@@ -100,7 +82,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686850568"
+        "LastUpdate": "1686914290"
     },
     {
         "Author": "NiGuangOwO",
@@ -118,7 +100,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686850568"
+        "LastUpdate": "1686914290"
     },
     {
         "Author": "Asvel",
@@ -136,7 +118,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686850568"
+        "LastUpdate": "1686914290"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -161,6 +143,6 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686850568"
+        "LastUpdate": "1686914290"
     }
 ]
