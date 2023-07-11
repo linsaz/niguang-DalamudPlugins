@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1688927860"
+        "LastUpdate": "1689047732"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
@@ -46,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1688927860"
+        "LastUpdate": "1689047732"
     },
     {
         "Author": "Asvel",
@@ -64,7 +64,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1688927860"
+        "LastUpdate": "1689047732"
     },
     {
         "Author": "NightmareXIV, NiGuangOwO (本地化)",
@@ -83,7 +83,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1688927860"
+        "LastUpdate": "1689047732"
     },
     {
         "Author": "Haselnussbomber,NiGuangOwO (本地化)",
@@ -101,7 +101,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1688927860"
+        "LastUpdate": "1689047732"
     },
     {
         "Author": "NiGuangOwO",
@@ -119,15 +119,16 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1688927860"
+        "LastUpdate": "1689047732"
     },
     {
         "Author": "veyn",
         "Name": "Boss Mod",
         "Punchline": "大脑按摩用的",
         "Description": "本仓库版来自y佬维护版编译，仅保留画图，还不快说谢谢y佬",
+        "Changelog": "CN 6.35",
         "InternalName": "BossMod",
-        "AssemblyVersion": "0.0.0.97",
+        "AssemblyVersion": "0.0.0.98",
         "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -143,6 +144,6 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1688927860"
+        "LastUpdate": "1689047732"
     }
 ]
