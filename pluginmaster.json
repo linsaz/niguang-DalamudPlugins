@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1689047732"
+        "LastUpdate": "1689430644"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
@@ -46,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1689047732"
+        "LastUpdate": "1689430644"
     },
     {
         "Author": "Asvel",
@@ -64,7 +64,32 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1689047732"
+        "LastUpdate": "1689430644"
+    },
+    {
+        "Author": "Liza Carvelli (Puni.sh)/ NiGuangOwO (本地化)",
+        "Name": "Palace Pal",
+        "Punchline": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。",
+        "Description": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
+        "InternalName": "Palace Pal",
+        "AssemblyVersion": "4.8.0.2",
+        "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "potd",
+            "palace",
+            "hoh",
+            "splatoon"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://love.puni.sh/resources/palacepal.png",
+        "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Palace Pal/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Palace Pal/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Palace Pal/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1689430644"
     },
     {
         "Author": "NightmareXIV, NiGuangOwO (本地化)",
@@ -83,7 +108,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/Lifestream/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1689047732"
+        "LastUpdate": "1689430644"
     },
     {
         "Author": "Haselnussbomber,NiGuangOwO (本地化)",
@@ -101,7 +126,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/HaselTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1689047732"
+        "LastUpdate": "1689430644"
     },
     {
         "Author": "NiGuangOwO",
@@ -119,7 +144,7 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/FuckAnimationLock/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1689047732"
+        "LastUpdate": "1689430644"
     },
     {
         "Author": "veyn",
@@ -144,6 +169,6 @@
         "DownloadLinkTesting": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BossMod/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1689047732"
+        "LastUpdate": "1689430644"
     }
 ]
